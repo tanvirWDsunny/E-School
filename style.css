@@ -1,3 +1,168 @@
-h1 {
-    background-color: red;
+.container {
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+ }
+.navbar-brand img {
+width: 200px;
 }
+.nav-button {
+    background-color: #21B573;;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 30px;
+    margin-left: 8px;
+    
+}
+ .nav-flexing{
+     padding-left: 60%;
+ }
+.start-button {
+    background-color: #21B573;;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 2px 25px;
+   
+}
+.col-md-7 img{
+    width: 600px;
+    padding-left: 15px;
+}
+.ready-color {
+    color: 
+    #FD511A;
+}
+.schedule {
+    color:#21B573 ;
+}
+.col-md-5 {
+    line-height: 40px;
+    margin-top: 20px;
+}
+.learn-with-fun {
+    font-weight: 900;
+    line-height: 70px;
+    
+   
+}
+.lorem-ipsum {
+    color: grey;
+}
+.first-section {
+    background-color: #F0FFF0;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+.cards img {
+    width: 40%;
+    padding-right: 13px;
+    
+}
+.cards {
+    text-align: center;
+    border: none;
+}
+.second-container {
+    margin-top: 70px;
+}
+.books img {
+   height: 95px;
+   width: 90px;
+    
+    
+   
+}
+p {
+    font-size: small;
+}
+h6 {
+    font-size: larger;
+    font-weight: bold;
+    color: #413960;
+}
+.second-colum {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+
+}
+.course-online {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+h2 {
+    font-weight: bold;
+    color: #413960;
+    text-align: center;
+}
+.card {
+    padding: 5px 12px;
+    border-radius: 8px;
+    border: none;
+    
+    
+}
+.buy-now-button {
+    background-color: #21B573;;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 5px 25px;
+    font-size: small;
+}
+.seats {
+    padding-top: 25px;
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+.testimonial-photo img {
+    width: 150px;
+ padding-right: 20%;
+
+}
+.testimonial-paragraph {
+   padding: 0% 5%;
+    line-height: 2;
+    font-weight: 400;
+    line-height: 2;
+   
+    
+    
+}
+
+.testimonial-heading {
+    margin-bottom: 30px;
+}
+
+.last-section {
+    margin-top: 5%;
+    background-color: #282531;
+    color: white;
+    height: 400px;
+    
+   
+}
+.last-item-row {
+    padding: 5% 0% 0% 13%;
+}
+ul {
+    list-style: none;
+   font-size: small;
+   font-weight: 100;
+   
+   
+}
+.list-heading {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 7%;
+    color: #CDCDCD;
+}
+
+
+
